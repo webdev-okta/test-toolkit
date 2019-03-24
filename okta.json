@@ -1,0 +1,7 @@
+{
+  "name": "Custom App Name", # up to 80 characters. if not supplied, will use the GitHub repo name (e.g., okta-toolkit-example)
+  "description": "Custom Descript A human readable description.", # up to 80 characters. If not supplied, will pull from the GitHub repo description field
+  "url": "https://developer.okta.com", # a link to the live version of this app. If not supplied, will pull from the GitHub repo's URL field
+  "categories": ["user management", "authentication", "authorization", "mfa", "hooks", "sso", "integrationNetwork", "socialAuthentication", "apiAuthentication"]
+  "logo": "https://developer.okta.com/logo.png" # an optional logo. should be 96px96px. If not supplied, will pull author's avatar
+}
